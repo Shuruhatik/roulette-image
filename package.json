@@ -1,0 +1,31 @@
+{
+  "name": "roulette-image",
+  "version": "0.1.9",
+  "description": "Creates an animated roulette image Gif",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "types": "./src/index.d.ts",
+  "files": [
+    "/src",
+    "/fonts"
+  ],
+  "homepage": "https://bio.shuruhatik.com/",
+  "keywords": [
+    "roulette",
+    "gif",
+    "animated",
+    "roulette",
+    "roulette",
+    "discord",
+    "fizbo"
+  ],
+  "author": "shuruhatik",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.41",
+    "@skyra/gifenc": "^1.0.1",
+    "@types/node": "^20.2.5"
+  }
+}
